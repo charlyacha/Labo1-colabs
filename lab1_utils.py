@@ -5,7 +5,7 @@ Departamento de Física, FCEN-UBA
 Reúne las funciones construidas a lo largo de los Colabs 01 a 10.
 Uso en Colab:
 
-    !wget -q https://raw.githubusercontent.com/TU-USUARIO/labo1-colabs/main/lab1_utils.py
+    !wget -q https://raw.githubusercontent.com/charlyacha/labo1-colabs/main/lab1_utils.py
     from lab1_utils import *
 
 o simplemente pegando este archivo en una celda.
